@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/twentysixteen/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/twentysixteen/static/js/main.d0c60d8a.chunk.js",
+    "main.js.map": "/twentysixteen/static/js/main.d0c60d8a.chunk.js.map",
+    "runtime-main.js": "/twentysixteen/static/js/runtime-main.15a6aec3.js",
+    "runtime-main.js.map": "/twentysixteen/static/js/runtime-main.15a6aec3.js.map",
+    "static/css/2.800be05e.chunk.css": "/twentysixteen/static/css/2.800be05e.chunk.css",
+    "static/js/2.de3f1f77.chunk.js": "/twentysixteen/static/js/2.de3f1f77.chunk.js",
+    "static/js/2.de3f1f77.chunk.js.map": "/twentysixteen/static/js/2.de3f1f77.chunk.js.map",
+    "static/js/3.b163a11b.chunk.js": "/twentysixteen/static/js/3.b163a11b.chunk.js",
+    "static/js/3.b163a11b.chunk.js.map": "/twentysixteen/static/js/3.b163a11b.chunk.js.map",
+    "index.html": "/twentysixteen/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/twentysixteen/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/twentysixteen/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.de3f1f77.chunk.js.LICENSE.txt": "/twentysixteen/static/js/2.de3f1f77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15a6aec3.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.de3f1f77.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d0c60d8a.chunk.js"
+  ]
+}
